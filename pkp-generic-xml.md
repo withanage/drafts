@@ -1,9 +1,11 @@
 ## Status (12.9.2022)
-- Currently there exists differente plugins for XML creation, editing and dissemination#
+- differente plugins for XML creation, editing and dissemination
 - Lots of duplicate code in plugins jatsTemplate, docx2jats and texture plugins.
 
 
-## Idea
+
+## Proposal
+- Establish a recomenneded way to 
 - XML creation can be standardized and lots of  element creation can be re-used
 - An Abstract Class / Interface can be defind to generatate a  Generic XML Functionality
    - This Interface can be  implemented or abstact class can be extended by different JATS schemas.
